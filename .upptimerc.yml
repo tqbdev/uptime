@@ -1,16 +1,15 @@
-# Change these first
 owner: tqbdev # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: VPN Server 1
+    check: "tcp-ping"
+    url: $VPN_DOMAIN
+    port: 1194
+  - name: VPN Server 2
+    check: "tcp-ping"
+    url: $VPN_DOMAIN
+    port: 1195
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
