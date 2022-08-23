@@ -26,6 +26,5 @@ status-website:
 #      href: /
 #    - title: GitHub
 #      href: https://github.com/$OWNER/$REPO
-
 i18n:
-  footer: 
+  footer: This uptime page is from @$OWNER
