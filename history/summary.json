@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-server-1",
     "status": "down",
-    "uptime": "41.91%",
+    "uptime": "41.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.16%",
+    "uptimeYear": "2.89%",
     "time": 264,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 266,
+    "timeYear": 269,
     "dailyMinutesDown": {
-      "2024-04-25": 84,
+      "2024-04-26": 62,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -370,8 +371,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 546,
-      "2023-04-27": 35
+      "2023-05-07": 546
     }
   },
   {
@@ -380,18 +380,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-server-2",
     "status": "down",
-    "uptime": "41.91%",
+    "uptime": "41.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.16%",
-    "time": 254,
+    "uptimeYear": "2.89%",
+    "time": 255,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 259,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-04-25": 84,
+      "2024-04-26": 62,
+      "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
@@ -745,8 +746,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 545,
-      "2023-04-27": 33
+      "2023-05-07": 545
     }
   }
 ]
